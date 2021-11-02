@@ -2,6 +2,14 @@
 
 int main(void)
 {
-	printf("first push function.c");
+
+
+
+	printf("second \n");
+
+
+
+
+
 	return 0;
 }
